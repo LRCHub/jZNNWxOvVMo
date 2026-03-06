@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "アンダースタンド（2004 国営ひたち海浜公園) (Live)",
+  "base_artist": "ASIAN KUNG-FU GENERATION",
+  "createdAt": "2026-03-06T11:29:03.550024Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Understand (2004 State Hitachi Seaside Park) [アンダースタンド [2004 国営ひたち海浜公園]",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": true,
+      "path": "select/01_Understand_(2004_State_Hitachi_Seaside_Park)_[アンダースタンド_[2004_国営ひたち海浜公園]_ASIAN_KUNG-FU_GENERATION.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "アンダースタンド (2004 国営ひたち海浜公園)",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": false,
+      "path": "select/02_アンダースタンド_(2004_国営ひたち海浜公園)_ASIAN_KUNG-FU_GENERATION.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アンダースタンド (2004 国営ひたち海浜公園)",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": false,
+      "path": "select/pl_01_アンダースタンド_(2004_国営ひたち海浜公園)_ASIAN_KUNG-FU_GENERATION.txt"
+    }
+  ]
+}
